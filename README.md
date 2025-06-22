@@ -1,29 +1,56 @@
-Welcome to my profile! 💕
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Olá!+Eu+sou+Sabrina+Raiane+L.💕;Sempre+aprendendo+algo+novo!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Olá!+Eu+sou+Sabrina+Raiane+L.;Bem-Vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding gif">
 </div>
+
+<br><br>
+
 📊 Estatísticas GitHub
+
+<br>
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sabrinaRaianeL&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB&bg_color=0d1117" alt="GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaRaianeL&layout=compact&hide_border=true&title_color=FF69B4&text_color=FFC0CB&bg_color=0d1117" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sabrinaRaianeL&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB&bg_color=0d1117" alt="GitHub stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaRaianeL&layout=compact&hide_border=true&title_color=FF69B4&text_color=FFC0CB&bg_color=0d1117" />
 </div>
+
+<br><br>
+
+💖 Projetos em Destaque
+
+<br>
+
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinaRaianeL&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFC0CB" alt="GitHub Streak" />
+  <a href="https://github.com/sabrinaRaianeL/Processos_de_Software">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sabrinaRaianeL&repo=Processos_de_Software&hide_border=true&title_color=FF69B4&text_color=FFC0CB&bg_color=0d1117" />
+  </a>
 </div>
+
+<br><br>
+
 🛠️ Linguagens e Ferramentas
+
+<br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,html,css,mysql,postgresql,git,github,vscode,&perline=9" />
 </div>
-📈 Gráfico de Contribuições
+
+<br><br>
+
+📱 Conecte-se Comigo
+
+<br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrinaRaianeL&theme=dracula&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuições&color=FF69B4&line=FF1493&point=FFC0CB" />
-</div>
-🌸 Minhas Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sabrinaRaianeL/sabrinaRaianeL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <a href="https://instagram.com/sabrina_raiane62" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/sabrinaRaianeL" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 <!--
