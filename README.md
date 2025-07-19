@@ -5,7 +5,9 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding gif">
 </div>
 
-<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
 
 📊 Estatísticas GitHub
 
@@ -16,7 +18,9 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaRaianeL&layout=compact&hide_border=true&title_color=FF69B4&text_color=FFC0CB&bg_color=0d1117" />
 </div>
 
-<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
 
 💖 Projetos em Destaque
 
@@ -28,7 +32,9 @@
   </a>
 </div>
 
-<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
 
 🛠️ Linguagens e Ferramentas
 
@@ -38,7 +44,9 @@
   <img src="https://skillicons.dev/icons?i=js,python,java,html,css,mysql,postgresql,git,github,vscode,&perline=9" />
 </div>
 
-<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>
 
 📱 Conecte-se Comigo
 
